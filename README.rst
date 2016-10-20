@@ -12,6 +12,7 @@ French Production of Electricity
         :width: 100%
         :align: center
 
+## Caution
 
     Because GitHub is does not support the graphs using plotly it recommended to use the following link for the notebook: http://nbviewer.jupyter.org/github/adelshb/RTE-exo2mix/blob/master/Production_Energie_France_par_Filiere.ipynb.
 

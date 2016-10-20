@@ -9,7 +9,7 @@ French Production of Electricity
     This repository contains a short jupyter notebook showing how to reproduce the national french production of electricity from the web app exo2mix http://www.rte-france.com/fr/eco2mix/eco2mix
 
 
-    .. image::
+    .. image:: https://github.com/adelshb/RTE-exo2mix/blob/master/sample.png
         :alt: French Production of Electricity
         :width: 100%
         :align: center

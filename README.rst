@@ -2,6 +2,8 @@
 French Production of Electricity
 ################################
 
+.. class:: no-web no-pdf
+
 |python| |jupyter| |plotly| |pandas| |requests|
 
 .. class:: no-web

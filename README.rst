@@ -16,7 +16,7 @@ French Production of Electricity
 Caution
 =======
 
-    Because GitHub is does not support the graphs using plotly it recommended to use the following link for the notebook: http://nbviewer.jupyter.org/github/mgamohamed/RTE-exo2mix/blob/master/Production_Energie_France_par_Filiere.ipynb.
+    Because GitHub is does not support the graphs using plotly it recommended to use the following link for the notebook: http://nbviewer.jupyter.org/github/mgamohamed/RTE-exo2mix/blob/master/Production_Energie_France_par_Filiere.ipynb
 
 
 .. class:: no-web no-pdf
